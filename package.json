@@ -1,0 +1,26 @@
+{
+  "name": "hexUTF",
+  "version": "0.0.0",
+  "description": "convert a ut8 string to hexdecimal and vice versa",
+  "main": "hexUTF8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvverde/a2h.git"
+  },
+  "keywords": [
+    "javascript",
+    "utf8",
+    "string",
+    "he",
+    "hexadecimal",
+    "convert"
+  ],
+  "author": "Eu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvverde/a2h/issues"
+  }
+}
