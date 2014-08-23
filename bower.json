@@ -1,0 +1,29 @@
+{
+  "name": "hexUTF8",
+  "version": "0.0.0",
+  "authors": [
+    "Isidro Vila Verde <jvverde@gmail.com>"
+  ],
+  "description": "convert a ut8 string to hexdecimal and vice versa",
+  "main": "hexUTF8.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "javascript",
+    "string",
+    "hex",
+    "hexadecimal",
+    "utf8",
+    "conversion"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jvverde/a2h",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
