@@ -1,4 +1,6 @@
 (function(exports){
+  _ = _ || require('lodash');
+  
   function a2b(str){
     return new Uint8Array((new StringView(str)).bufferView);
   }
