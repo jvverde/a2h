@@ -1,9 +1,9 @@
-module.exports = funciton(grunt) {
+module.exports = function(grunt) {
   grunt.initConfig({
     clean: ['dist/'],
     browserify: {
-      'dist/js/index.js': ['js/index.js']
-    },
+      'dist/js/hexUTF8.js': ['./lib/hexUTF8.js']
+    }
   });
 
   grunt.loadNpmTasks('grunt-contrib-clean');

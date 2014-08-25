@@ -2,7 +2,7 @@
   "name": "hexUTF",
   "version": "0.0.0",
   "description": "convert a ut8 string to hexdecimal and vice versa",
-  "main": "hexUTF8.js",
+  "main": "lib/hexUTF8.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,6 +27,19 @@
     "lodash": "~2.4.1"
   },
   "devDependencies": {
-    "grunt-cli": "~0.1.13"
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-browserify": "~2.1.4",
+    "chai": "~1.9.1",
+    "karma": "~0.12.22",
+    "mocha": "~1.21.4",
+    "karma-mocha": "~0.1.9",
+    "karma-chai": "~0.1.0",
+    "sinon": "~1.10.3",
+    "karma-sinon": "~1.0.3",
+    "karma-chrome-launcher": "~0.1.4",
+    "karma-firefox-launcher": "~0.1.3",
+    "karma-opera-launcher": "~0.1.0"
   }
 }

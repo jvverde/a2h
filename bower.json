@@ -5,7 +5,7 @@
     "Isidro Vila Verde <jvverde@gmail.com>"
   ],
   "description": "convert a ut8 string to hexdecimal and vice versa",
-  "main": "hexUTF8.js",
+  "main": "lib/hexUTF8.js",
   "moduleType": [
     "node"
   ],
@@ -27,6 +27,7 @@
     "tests"
   ],
   "dependencies": {
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "stringview": "*"
   }
 }
