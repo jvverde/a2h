@@ -4,7 +4,7 @@
   "authors": [
     "Isidro Vila Verde <jvverde@gmail.com>"
   ],
-  "description": "convert a ut8 string to hexdecimal and vice versa",
+  "description": "Convert a ut8 string to hexadecimal and vice versa",
   "main": "lib/hexUTF8.js",
   "moduleType": [
     "node"
